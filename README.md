@@ -4,7 +4,7 @@
 `npm install webpack -g`
 
 ## Uruchomienie
-W konsolii należy wpisać:
+Należy wykonać polecenie:
 
 `npm run dev`
 
